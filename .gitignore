@@ -1,3 +1,5 @@
+*
+!*/
 # Node modules.
 node_modules/
 
@@ -5,6 +7,9 @@ node_modules/
 generated/
 out/
 dist/
+!dist/npm__ko.js
+!dist/esm__ko.js
+!dist/firebaseui__ko.js
 .firebase
 
 # Generated files.
