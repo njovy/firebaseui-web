@@ -10,6 +10,7 @@ dist/
 !dist/npm__ko.js
 !dist/esm__ko.js
 !dist/firebaseui__ko.js
+!dist/firebaseui.css
 .firebase
 
 # Generated files.
